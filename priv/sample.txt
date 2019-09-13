@@ -1,0 +1,9 @@
+Line 1
+Line 2
+Line 3
+A long string tin the string to read by elixir, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum ipsa libero sint, quas fuga hic. Obcaecati modi suscipit dignissimos soluta, iure explicabo aperiam reprehenderit, possimus nobis veniam, voluptatibus eius repellendus ?
+Line 4
+
+GenServers are behaviours
+  - Define a set of function to be implemented
+  - Ensure that a module implements ALL functions in that set
